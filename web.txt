@@ -1,0 +1,15 @@
+what is web literacy?
+Open source software - 
+CONTU(Commission On New Technological Uses for copyrited works) - 1994
+Rebellion - 1983
+The Bazaar system - 1997
+Open source Initiative
+
+Components of Web literacy - read, write, 
+internet
+Search Engine vs Browsers
+    search
+    todo::search
+
+// 30 => 3, 6, 9, 12, 15, 18, 21, 24, 27, 30
+// => 5, 10, 15, 20, 25

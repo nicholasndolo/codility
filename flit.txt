@@ -1,0 +1,7 @@
+Software Development -  collective set of repeated processes that are used to design, create, deploy and support software.
+
+Different types of software
+1. Application software - This type of software is used in applications or apps that are designed to help the user complete specific tasks. For example, application software is used in security programs, media players, data management software and other various office productivity suites
+2.Programming software - Programming software is designed specifically to assist programmers in the creation of code.
+3. System software - Software that outlines the core functions and operational necessities for a computing system, such as hardware management, utilities, disk management and operating systems.
+4.Embedded software
